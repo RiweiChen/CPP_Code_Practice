@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: scaner - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\CHENRI~1\AppData\Local\Temp\RSP5EA2.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/scaner.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\ѧϰ\C&C++\scaner\scanerDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\CHENRI~1\AppData\Local\Temp\RSP5EA2.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/scaner.pdb" /machine:I386 /out:"Release/scaner.exe"  ".\Release\scaner.obj" ".\Release\scanerDlg.obj" ".\Release\StdAfx.obj" ".\Release\scaner.res" "
+<h3>Output Window</h3>
+Compiling...
+scanerDlg.cpp
+Linking...
+LINK : warning LNK4089: all references to "SHELL32.dll" discarded by /OPT:REF
+
+
+
+<h3>Results</h3>
+scaner.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,16 @@
+标号	名字	类型
+1	caner	id
+2	.	operator
+3	date	id
+4	n	id
+5	0	num
+6	;	endmark
+7	scaner	id
+8	length	id
+9	=	operator
+10	str	id
+11	GetLength	id
+12	(	operator
+13	)	operator
+14	deletcomment	id
+15	deletspace	id

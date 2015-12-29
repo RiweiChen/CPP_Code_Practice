@@ -1,0 +1,34 @@
+<caner	,	id>
+< .	,	operator>
+<date	,	id>
+<n	,	id>
+<0	,	num>
+<;	,	endmark>
+<scaner	,	id>
+< .	,	operator>
+<length	,	id>
+< =	,	operator>
+<str	,	id>
+< .	,	operator>
+<GetLength	,	id>
+< (	,	operator>
+< )	,	operator>
+<;	,	endmark>
+<scaner	,	id>
+< .	,	operator>
+<deletcomment	,	id>
+< (	,	operator>
+< )	,	operator>
+<;	,	endmark>
+<scaner	,	id>
+< .	,	operator>
+<deletspace	,	id>
+< (	,	operator>
+< )	,	operator>
+<;	,	endmark>
+<scaner	,	id>
+< .	,	operator>
+<scaner	,	id>
+< (	,	operator>
+< )	,	operator>
+<;	,	endmark>

@@ -1,0 +1,222 @@
+<include	,	id>
+< <	,	operator>
+<iostream	,	id>
+<using	,	id>
+<namespace	,	id>
+<std	,	id>
+<void	,	keyword>
+<sort	,	id>
+< (	,	operator>
+<int	,	keyword>
+< *	,	operator>
+<data	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<low	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<high	,	id>
+< )	,	operator>
+<int	,	keyword>
+<partion	,	id>
+< (	,	operator>
+<int	,	keyword>
+< *	,	operator>
+<data	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<low	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<high	,	id>
+< )	,	operator>
+<int	,	keyword>
+<main	,	id>
+<int	,	keyword>
+<data	,	id>
+<1000	,	num>
+<int	,	keyword>
+<i	,	id>
+< =	,	operator>
+<0	,	num>
+<int	,	keyword>
+<j	,	id>
+< =	,	operator>
+<0	,	num>
+<int	,	keyword>
+<t	,	id>
+<int	,	keyword>
+<n	,	id>
+<cin	,	id>
+< >>	,	operator>
+<n	,	id>
+<for	,	keyword>
+< (	,	operator>
+<t	,	id>
+< =	,	operator>
+<0	,	num>
+<t	,	id>
+< <	,	operator>
+<n	,	id>
+<t	,	id>
+<cin	,	id>
+< >>	,	operator>
+<data	,	id>
+<t	,	id>
+<j	,	id>
+< =	,	operator>
+<n	,	id>
+< -	,	operator>
+<1	,	num>
+<sort	,	id>
+< (	,	operator>
+<data	,	id>
+< ,	,	operator>
+<0	,	num>
+<j	,	id>
+< )	,	operator>
+<for	,	keyword>
+< (	,	operator>
+<t	,	id>
+< =	,	operator>
+<0	,	num>
+<t	,	id>
+< <	,	operator>
+<n	,	id>
+< -	,	operator>
+<1	,	num>
+<t	,	id>
+<cout	,	id>
+< <<	,	operator>
+<data	,	id>
+<t	,	id>
+<cout	,	id>
+< <<	,	operator>
+<data	,	id>
+<n	,	id>
+< -	,	operator>
+<1	,	num>
+<endl	,	id>
+<return	,	keyword>
+<0	,	num>
+<void	,	keyword>
+<sort	,	id>
+< (	,	operator>
+<int	,	keyword>
+< *	,	operator>
+<data	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<low	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<high	,	id>
+<if	,	keyword>
+< (	,	operator>
+<low	,	id>
+< <	,	operator>
+<high	,	id>
+<int	,	keyword>
+<key	,	id>
+< =	,	operator>
+<partion	,	id>
+< (	,	operator>
+<data	,	id>
+< ,	,	operator>
+<low	,	id>
+< ,	,	operator>
+<high	,	id>
+< )	,	operator>
+<sort	,	id>
+< (	,	operator>
+<data	,	id>
+< ,	,	operator>
+<low	,	id>
+< ,	,	operator>
+<key	,	id>
+< -	,	operator>
+<1	,	num>
+< )	,	operator>
+<sort	,	id>
+< (	,	operator>
+<data	,	id>
+< ,	,	operator>
+<key	,	id>
+< +	,	operator>
+<1	,	num>
+< ,	,	operator>
+<high	,	id>
+< )	,	operator>
+<int	,	keyword>
+<partion	,	id>
+< (	,	operator>
+<int	,	keyword>
+< *	,	operator>
+<data	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<low	,	id>
+< ,	,	operator>
+<int	,	keyword>
+<high	,	id>
+<int	,	keyword>
+<p	,	id>
+< =	,	operator>
+<0	,	num>
+<int	,	keyword>
+<key	,	id>
+< =	,	operator>
+<data	,	id>
+<low	,	id>
+<while	,	keyword>
+< (	,	operator>
+<low	,	id>
+< <	,	operator>
+<high	,	id>
+<while	,	keyword>
+< (	,	operator>
+<low	,	id>
+< <	,	operator>
+<high	,	id>
+< &&	,	operator>
+<data	,	id>
+<high	,	id>
+<key	,	id>
+< --	,	operator>
+<high	,	id>
+<p	,	id>
+< =	,	operator>
+<data	,	id>
+<low	,	id>
+<data	,	id>
+<low	,	id>
+<data	,	id>
+<high	,	id>
+<data	,	id>
+<high	,	id>
+<p	,	id>
+<while	,	keyword>
+< (	,	operator>
+<low	,	id>
+< <	,	operator>
+<high	,	id>
+< &&	,	operator>
+<data	,	id>
+<low	,	id>
+<key	,	id>
+< ++	,	operator>
+<low	,	id>
+<p	,	id>
+< =	,	operator>
+<data	,	id>
+<low	,	id>
+<data	,	id>
+<low	,	id>
+<data	,	id>
+<high	,	id>
+<data	,	id>
+<high	,	id>
+<p	,	id>
+<return	,	keyword>
+<low	,	id>
+< }	,	operator>
